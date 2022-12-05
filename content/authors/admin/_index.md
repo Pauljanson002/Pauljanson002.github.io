@@ -26,6 +26,7 @@ interests:
   - Deep learning
   - Continual learning
   - Zero shot learning
+  - Distribution Shifts
   - Domain transfer 
 
 # Education to show in About widget
