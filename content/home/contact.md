@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: paul.18 (at) cst (dot) mrt (dot) ac (dot) lk
+  email: paul.18 (at) cse (dot) mrt (dot) ac (dot) lk
   phone: +94 77 *******
   # address:
   #   street: 450 Serra Mall
