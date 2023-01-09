@@ -80,7 +80,7 @@ email: 'paul.18 (at) cse (at) mrt (dot) ac (dot) lk'
 highlight_name: true
 ---
 
-I am an undergraduate student at University of Moratuwa, Sri Lanka with a passion for computer vision and deep learning research. My research interests include continual learning , zero shot learning , learning with limited data and domain generalization. I am working as a research intern at KAUST in Vision CAIR group under the supervision of [Dr.Mohammed Elhoseiny](http://www.mohamed-elhoseiny.com/). I am also working on my undergraduate thesis  that focus of reconstructing 3D objects with single view with [Dr. Thanuja Ambegoda](https://thanujadax.github.io/). 
+I am an undergraduate student at University of Moratuwa, Sri Lanka with a passion for computer vision and deep learning research. My research interests include continual learning , zero shot learning ,distribution shifts, learning with limited data and domain generalization. My goal is to use my research in artificial intelligence to positively impact the planet by developing sustainable models and applying AI to address global challenges. I am working as a research intern at KAUST in Vision CAIR group under the supervision of [Dr.Mohammed Elhoseiny](http://www.mohamed-elhoseiny.com/). I am also working on my undergraduate thesis  that focus of reconstructing 3D objects with single view with [Dr. Thanuja Ambegoda](https://thanujadax.github.io/). 
 
 I am applying for graduate schools to start at Fall 2023. 
 

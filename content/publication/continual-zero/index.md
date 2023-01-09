@@ -1,14 +1,16 @@
 ---
-title: 'A Simple baseline that questions the use of pre-trained model in continual learning'
+title: 'Continual zero-shot learning through semantically guided generative random walk'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 
 authors:
-  - admin
   - Wenxuan Zhang
-  - Rahaf Aljundi
+  - admin
+  - Divyansh Jha
+  - Kai Yi
+  - Ivan Skorodov
   - Mohammed Elhoseiny
 
 # Author notes (optional)
@@ -29,15 +31,15 @@ publishDate: '2022-11-05T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *NeurIPS 2022 Workshop on Distribution Shifts*
-publication_short: In *NeurIPS2022 Workshop*
+publication: In *Review*
+publication_short: In *Review*
 
-abstract: With the success of pretraining techniques in representation learning, a number of continual learning methods based on pretrained models have been proposed. Some of these methods design continual learning mechanisms on the pre-trained representations and only allow minimum updates or even no updates of the backbone models during the training of continual learning. In this paper, we question whether the complexity of these models is needed to achieve good performance by comparing them to a simple baseline that we designed. We argue that the pretrained feature extractor itself can be strong enough to achieve a competitive or even better continual learning performance on Split-CIFAR100 and CoRe 50 benchmarks. To validate this, we conduct a very simple baseline that 1) use the frozen pretrained model to extract image features for every class encountered during the continual learning stage and compute their corresponding mean features on training data, and 2) predict the class of the input based on the nearest neighbor distance between test samples and mean features of the classes; i.e., Nearest Mean Classifier (NMC). This baseline is single-headed, exemplar-free, and can be task-free (by updating the means continually). This baseline achieved 88.53% on 10-Split-CIFAR-100, surpassing most state-of-the-art continual learning methods that are all initialized using the same pretrained transformer model. We hope our baseline may encourage future progress in designing learning systems that can continually add quality to the learning representations even if they started from some pretrained weights.
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: A baseline that performs better without training in continual learning benchmarks
+summary: 
 
-tags: [continual learning, pretrained model]
+tags: [continual learning, zero-shot,random walk]
 
 # Display this page in the Featured widget?
 featured: true
@@ -48,7 +50,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/Pauljanson002/pretrained-cl'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -77,8 +79,8 @@ projects: ''
 #   Otherwise, set `slides: ""`.
 slides: ''
 ---
-<!-- 
-{{% callout note %}}
+
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
