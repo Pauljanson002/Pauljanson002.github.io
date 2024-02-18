@@ -8,6 +8,7 @@ title: 'Domain Aware Zero shot learning'
 authors:
   - Kai Yi 
   - admin
+  - Wenxuan Zhang
   - Mohammed Elhoseiny
 
 # Author notes (optional)
@@ -25,13 +26,13 @@ publishDate: '2022-11-05T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Review*
-publication_short: In *Review*
+publication: In ICCV 2023 Workshop on out of domain generalization in computer vision
+publication_short: In ICCV 2023 Workshop 
 
-abstract: 
+abstract: "Continual zero-shot learning involves learning seen classes incrementally while improving the ability to recognize unseen or yet-to-be-seen classes. It has a broad range of potential applications in real-world vision tasks, such as accelerating species discovery. However, in these scenarios, the changes in environmental conditions cause shifts in the presentation of captured images, which we refer to as domain shift, and adds complexity to the tasks. In this paper, we introduce Domain Aware Continual Zero-Shot Learning (DACZSL), a task that involves visually recognizing images of unseen categories in unseen domains continually. To address the challenges of DACZSL, we propose a Domain-Invariant Network (DIN). We empoly a dual network structure to learn factorized features to alleviate forgetting, where consists of a global shared net for domian-invirant and task-invariant features, and per-task private nets for task-specific features. Furthermore, we introduce a class-wise learnable prompt to obtain better class-level text representation, which enables zero-shot prediction of future unseen classes. To evaluate DACZSL, we introduce two benchmarks: DomainNet-CZSL and iWildCam-CZSL. Our results show that DIN significantly outperforms existing baselines and achieves a new state-of-the-art."
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -46,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2112.12989'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -10,24 +10,24 @@ last_name: Janson
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate student | Student Researcher
+role: Masters student | Student Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Moratuwa 
-    url: https://www.uom.lk/
-
+  - name: Concordia University
+    url: https://www.concordia.ca
+  - name: Mila Quebec AI Institute
+    url: https://www.mila.quebec/
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lies in the conjunction of computer vision and deep learning. Focusing on continual learning , zero-shot learning, distribution shift and learning with limited labels.
+bio: My research interests lies in the conjunction of computer vision and computer graphics. Focusing on AI for 3D content creation .
 
 # Interests to show in About widget
 interests:
   - Computer vision
+  - Computer Graphics
   - Deep learning
   - Continual learning
   - Zero shot learning
-  - Distribution Shifts
-  - Domain transfer 
 
 # Education to show in About widget
 education:
@@ -35,9 +35,9 @@ education:
     # - course: PhD in Artificial Intelligence
     #   institution: Stanford University
     #   year: 2012
-    # - course: MEng in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2009
+    - course: Masters in Computer Science
+      institution: Concordia University
+      year: 2023-2025
     - course: BSc in Computer science and Engineering
       institution: University of Moratuwa 
       year: 2018-2023
@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:paul.janson@mila.quebec'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/janson002
@@ -74,15 +74,16 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'paul.18 (at) cse (at) mrt (dot) ac (dot) lk'
+email: 'paul.janson@mila.quebec'
 
 # Highlight the author in author lists? (true/false)
+#I am applying for graduate schools to start at Fall 2023.
 highlight_name: true
 ---
 
-I am an undergraduate student at University of Moratuwa, Sri Lanka with a passion for computer vision and deep learning research. My research interests include continual learning , zero shot learning ,distribution shifts, learning with limited data and domain generalization. My goal is to use my research in artificial intelligence to positively impact the planet by developing sustainable models and applying AI to address global challenges. I am working as a research intern at KAUST in Vision CAIR group under the supervision of [Dr.Mohammed Elhoseiny](http://www.mohamed-elhoseiny.com/). I am also working on my undergraduate thesis  that focus of reconstructing 3D objects with single view with [Dr. Thanuja Ambegoda](https://thanujadax.github.io/). 
+I am a masters (thesis) student at Concordia University and Mila Quebec AI Institute in Canada with a passion for computer vision and computer graphics research. I am specifically interested in using AI for 3D content creation and using it to positively impact the developers. I am also curious about continual learning and applying it to the current large scale models. I am being supervised by [Dr.Eugene Belilovsky](https://eugenium.github.io/) and [Dr.Tiberiu Popa](https://users.encs.concordia.ca/~stpopa/). Before coming to Mila and Concordia , I worked as a research intern at KAUST in Vision CAIR group under the supervision of [Dr.Mohammed Elhoseiny](http://www.mohamed-elhoseiny.com/). I did my undergraduate at University of Moratuwa, Sri Lanka with thesis in reconstructing 3D objects with few views with [Dr. Thanuja Ambegoda](https://thanujadax.github.io/). 
 
-I am applying for graduate schools to start at Fall 2023. 
+ 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/pauljanson_cv.pdf" "newtab" >}}CV{{< /staticref >}}.

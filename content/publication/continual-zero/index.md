@@ -20,7 +20,7 @@ authors:
 
 date: '2022-12-03T00:00:00Z'
 doi: ''
-
+weight: 10
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-11-05T00:00:00Z'
 
@@ -28,13 +28,30 @@ publishDate: '2022-11-05T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Review*
-publication_short: In *Review*
+publication: In International conference on computer vision 2023
+publication_short: In ICCV 2023
 
-abstract: 
+abstract: "Learning novel concepts, remembering previous knowledge, and adapting it to future tasks occur simultaneously
+throughout a human’s lifetime. To model such comprehensive
+abilities, continual zero-shot learning (CZSL) has recently
+been introduced. However, most existing methods overused
+unseen semantic information that may not be continually
+accessible in realistic settings. In this paper, we address the
+challenge of continual zero-shot learning where unseen information is not provided during training, by leveraging generative modeling. The heart of the generative-based methods is
+to learn quality representations from seen classes to improve
+the generative understanding of the unseen visual space. Motivated by this, we introduce generalization-bound tools and
+provide the first theoretical explanation for the benefits of
+generative modeling to CZSL tasks. Guided by the theoretical analysis, we then propose our learning algorithm that
+employs a novel semantically guided Generative Random
+Walk (GRW) loss. The GRW loss augments the training by
+continually encouraging the model to generate realistic and
+characterized samples to represent the unseen space. Our
+algorithm achieves state-of-the-art performance on AWA1,
+AWA2, CUB, and SUN datasets, surpassing existing CZSL
+methods by 3-7%."
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -49,8 +66,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Continual_Zero-Shot_Learning_through_Semantically_Guided_Generative_Random_Walks_ICCV_2023_paper.pdf'
+url_code: 'https://github.com/wx-zhang/IGCZSL'
 url_dataset: ''
 url_poster: ''
 url_project: ''

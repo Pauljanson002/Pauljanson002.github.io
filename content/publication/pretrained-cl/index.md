@@ -26,7 +26,7 @@ publishDate: '2022-11-05T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *NeurIPS 2022 Workshop on Distribution Shifts*
@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2210.04428'
 url_code: 'https://github.com/Pauljanson002/pretrained-cl'
 url_dataset: ''
 url_poster: ''
