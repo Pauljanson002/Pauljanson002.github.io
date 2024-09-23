@@ -22,22 +22,30 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: PhD Student
+    company: Concordia University
+    company_url: 'https://www.concordia.ca'
+    company_logo: concordia
+    location: Montreal, Canada
+    date_start: '2024-05-05'
+    date_end: ''
+    description: ''
+  - title: PhD Student
+    company: Mila Quebec AI Institute
+    company_url: 'https://www.mila.quebec'
+    company_logo: mila
+    location: Montreal, Canada
+    date_start: '2024-05-05'
+    date_end: ''
+    description: ''
   - title: Masters Student
     company: Mila Quebec AI Institute
     company_url: 'https://www.mila.quebec'
     company_logo: mila
     location: Montreal, Canada
-    date_start: '2023-08-01'
-    date_end: ''
-    description: ''
-  - title: Masters Student
-    company: Concordia University
-    company_url: 'https://www.concordia.ca'
-    company_logo: concordia
-    location: Montreal, Canada
-    date_start: '2023-08-01'
-    date_end: ''
-    description: ''
+    date_start: '2023-09-01'
+    date_end: '2024-05-05'
+    description: 'Fast Tracked to PhD'
   - title: Research Intern
     company: King Abdullah University of Science and Technology 
     company_url: 'https://www.kaust.edu.sa'

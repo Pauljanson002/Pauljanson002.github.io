@@ -10,7 +10,7 @@ last_name: Janson
 superuser: true
 
 # Role/position/tagline
-role: Masters student | Student Researcher
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,12 +19,11 @@ organizations:
   - name: Mila Quebec AI Institute
     url: https://www.mila.quebec/
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lies in the conjunction of computer vision and computer graphics. Focusing on AI for 3D content creation .
+bio: My research interests lies in the conjunction of computer vision and deep learning. Mainly continual learning, meta-learning and diffusion models.
 
 # Interests to show in About widget
 interests:
   - Computer vision
-  - Computer Graphics
   - Deep learning
   - Continual learning
   - Zero shot learning
@@ -32,9 +31,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    # - course: PhD in Artificial Intelligence
-    #   institution: Stanford University
-    #   year: 2012
+    - course: PhD in Computer Science
+      institution: Concordia University
+      year: 2024-2028
     - course: Masters in Computer Science
       institution: Concordia University
       year: 2023-2025
@@ -81,7 +80,7 @@ email: 'paul.janson@mila.quebec'
 highlight_name: true
 ---
 
-I am a masters (thesis) student at Concordia University and Mila Quebec AI Institute in Canada with a passion for computer vision and computer graphics research. I am specifically interested in using AI for 3D content creation and using it to positively impact the developers. I am also curious about continual learning and applying it to the current large scale models. I am being supervised by [Dr.Eugene Belilovsky](https://eugenium.github.io/) and [Dr.Tiberiu Popa](https://users.encs.concordia.ca/~stpopa/). Before coming to Mila and Concordia , I worked as a research intern at KAUST in Vision CAIR group under the supervision of [Dr.Mohammed Elhoseiny](http://www.mohamed-elhoseiny.com/). I did my undergraduate at University of Moratuwa, Sri Lanka with thesis in reconstructing 3D objects with few views with [Dr. Thanuja Ambegoda](https://thanujadax.github.io/). 
+I am a PhD student at Concordia University and Mila Quebec AI Institute in Canada with a passion for computer vision and deep learning research. I am specifically interested in increasing the efficiency of training deep learning models by leveraging previous knowledge in models through continual learning, meta learning and model reuse. I am being supervised by [Dr.Eugene Belilovsky](https://eugenium.github.io/) and [Dr.Tiberiu Popa](https://users.encs.concordia.ca/~stpopa/). Before coming to Mila and Concordia , I worked as a research intern at KAUST in Vision CAIR group under the supervision of [Dr.Mohammed Elhoseiny](http://www.mohamed-elhoseiny.com/). I did my undergraduate at University of Moratuwa, Sri Lanka with thesis in reconstructing 3D objects with few views with [Dr. Thanuja Ambegoda](https://thanujadax.github.io/). 
 
  
 
