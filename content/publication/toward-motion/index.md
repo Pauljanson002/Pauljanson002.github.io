@@ -9,7 +9,7 @@ doi: ""  # Not provided in the paper
 weight: 10
 publishDate: '2022-09-05T00:00:00Z'
 publication_types: ["1"]  # Assuming this is a conference paper
-publication: "ECCV 2024 Workshop: Foundation Models for 3D Humans "  # Inferred from the submission information
+publication: "ECCV 2024 Workshop: Foundation Models for 3D Humans (archival) "  # Inferred from the submission information
 publication_short: "In ECCV 2024 Workshop"
 abstract: "Video diffusion models have emerged as a powerful tool in the realm of video generation and editing, raising the question of their ability to comprehend and replicate human motion accurately. These models leverage diffusion processes to iteratively transform random noise into coherent video sequences guided by a text prompt, but the extent to which they grasp the intricacies of human movement remains under investigation. This study employs an 'analysis by synthesis' approach, where the performance of video diffusion models is evaluated by synthesizing human motion and comparing it qualitatively. We examine the publicly available text-to-video diffusion models' capacity to generate natural and diverse motions. This offers insights into potential future directions for enhancing their performance in generating plausible human motion."
 summary: "This study investigates the capabilities of video diffusion models in generating human motion from text prompts, revealing their strengths in common motions and limitations in rare or complex movements."

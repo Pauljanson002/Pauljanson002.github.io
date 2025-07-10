@@ -32,8 +32,9 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  view: community/my_showcase
   columns: '2'
+  flip_alt_rows: true
 ---
 
 <!-- {{% callout note %}}

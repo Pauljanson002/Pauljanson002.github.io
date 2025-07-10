@@ -23,10 +23,10 @@ bio: My research interests lies in the conjunction of computer vision and deep l
 
 # Interests to show in About widget
 interests:
-  - Computer vision
-  - Deep learning
   - Continual learning
-  - Zero shot learning
+  - Meta learning
+  - Foundation models
+  - Computer vision
 
 # Education to show in About widget
 education:
@@ -80,7 +80,7 @@ email: 'paul.janson@mila.quebec'
 highlight_name: true
 ---
 
-I am a PhD student at Concordia University and Mila Quebec AI Institute in Canada with a passion for computer vision and deep learning research. I am specifically interested in increasing the efficiency of training deep learning models by leveraging previous knowledge in models through continual learning, meta learning and model reuse. I am being supervised by [Dr.Eugene Belilovsky](https://eugenium.github.io/) and [Dr.Tiberiu Popa](https://users.encs.concordia.ca/~stpopa/). Before coming to Mila and Concordia , I worked as a research intern at KAUST in Vision CAIR group under the supervision of [Dr.Mohammed Elhoseiny](http://www.mohamed-elhoseiny.com/). I did my undergraduate at University of Moratuwa, Sri Lanka with thesis in reconstructing 3D objects with few views with [Dr. Thanuja Ambegoda](https://thanujadax.github.io/). 
+I am a PhD student at Mila Quebec AI Institute and Concordia University in Canada with a passion for deep learning and computer vision research. My primary research interest lies in improving the efficiency of training foundation models by leveraging prior knowledge through continual learning, meta-learning, and model reuse. I am being supervised by [Dr.Eugene Belilovsky](https://eugenium.github.io/). Before coming to Mila and Concordia , I worked as a research intern at KAUST in Vision CAIR group under the supervision of [Dr.Mohammed Elhoseiny](http://www.mohamed-elhoseiny.com/). I did my undergraduate at University of Moratuwa, Sri Lanka with thesis in reconstructing 3D objects with few views with [Dr. Thanuja Ambegoda](https://thanujadax.github.io/).
 
  
 
