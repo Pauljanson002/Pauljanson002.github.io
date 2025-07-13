@@ -58,6 +58,9 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+ - name: Post
+   url: "https://x.com/janson002/status/1901729587849240846"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

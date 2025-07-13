@@ -58,6 +58,9 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+ - name: Post
+   url: "https://www.linkedin.com/posts/wenxuan-zhang-0960b11b8_computervision-cvpr-activity-7168926489835479040-z513?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACRIsOYBRvazcHnS89JUNQDZoIDYBy_R59o"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
