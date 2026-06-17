@@ -21,7 +21,7 @@ sections:
     id: publications
     content:
       title: Publications   
-      count: 8
+      count: 3
       filters:
         folders:
           - publication
@@ -46,6 +46,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Intern
+          company: Microsoft Research
+          company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/'
+          company_logo: 'microsoft'
+          location: Cambridge, UK
+          date_start: '2026-06-01'
+          date_end: ''
+          description: ''
         - title: PhD Student
           company: Concordia University
           company_url: 'https://www.concordia.ca'

@@ -2,6 +2,16 @@
 title: News
 ---
 
+### 2026
+
+- [2026-06-01] Started a Research Internship at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/), Cambridge, UK
+
+- [2026-06-01] 1 paper accepted at the ICML 2026 2nd Workshop on Connecting Low-rank Representations in AI
+
+- [2026-05-01] 1 paper accepted at ICML 2026 Main Conference
+
+- [2026-05-01] [PyLO](https://github.com/Belilovsky-Lab/pylo) accepted at MLSys 2026
+
 ### 2025
 
 - [2025-07-09] We released [PyLO](https://github.com/Belilovsky-Lab/pylo) an open source optimization library to enable usage of learned optimizers in PyTorch

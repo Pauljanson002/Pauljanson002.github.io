@@ -1,0 +1,7 @@
+// Site custom styles
+
+// Nudge the Microsoft Research wordmark logo down so it aligns better
+// with the other (square) company logos in the Experience section.
+.experience img[alt="Microsoft Research"] {
+  margin-top: 30px;
+}
